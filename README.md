@@ -1,3 +1,3 @@
 # wentis
 
-See our [Whitepaper](./README.md)
+See our [Whitepaper](docs/VVhitepaper.pdf)
